@@ -1,0 +1,23 @@
+Quering with LINQ to Entities:
+
+1. Filtering Data : Filtering based on associations
+                    paging results
+                    retriving one entity
+                    creating queries dynamically
+2. projecting results:
+              Projecting with associations
+              projections and object tracking
+3. Grouping data :
+      filtering aggregated data
+4. Sorting:
+   Sorting with associations
+5. joining data
+6. Quering with inheritance
+7. Using functions:
+    Canonical functions
+    Database functions
+8. Fetching:
+  Eager loading 
+  Lazy loading
+  Manual feddered loading
+  Choosing a loading approach
