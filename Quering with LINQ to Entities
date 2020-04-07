@@ -1,5 +1,3 @@
-Quering with LINQ to Entities:
-
 1. Filtering Data : Filtering based on associations
                     paging results
                     retriving one entity
